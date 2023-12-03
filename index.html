@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>RenderTxT</title>
+</head>
+
+<body>
+    <header>
+        <h1>Gestionador de Talentos</h1>
+        <aside>
+            <div id="estadisticas">
+                <h6>Numero de talentos</h6>
+                <p id="numTalentos"></p>
+            </div>
+        </aside>
+        <footer>
+            <p>&copy; 2023 Explorador de Perfiles. Todos los derechos reservados.</p>
+        </footer>
+    </header>
+
+    <main>
+        <h2>Explorador de talentos</h2>
+        <form class="filter">
+            <div class="filters">
+                <button id="btnTodos">Todos</button>
+                <div id="search">
+                    <input type="text" name="termino" id="termino" placeholder="Buscar coincidencias">
+                </div>
+                <select name="ciudad" id="ciudad">
+                    <option value="Ciudad">Ciudad</option>
+                </select>
+            </div>
+            <button id="btnFiltrar">Filtrar</button>
+        </form>
+        <section id="exploraDiversidad">
+            <div>
+                <!-- Contenido adicional si es necesario -->
+            </div>
+            <table>
+                <thead>
+                    <tr>
+                        <!-- Aquí se llenarán dinámicamente los títulos de las columnas -->
+                    </tr>
+                </thead>
+                <tbody id="tablaDatos">
+                    <!-- Aquí se llenarán dinámicamente los datos del archivo -->
+                </tbody>
+            </table>
+        </section>
+    </main>
+
+    <script src="index.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,75 @@
+1,Ana,28,Bogotá,Desarrolladora Full Stack
+2,Carlos,35,Medellín,Desarrollador Frontend
+3,Elena,22,Cali,Desarrolladora Backend
+4,David,30,Barranquilla,Desarrollador JavaScript
+5,Sara,25,Cartagena,Desarrolladora Python
+6,Javier,40,Bucaramanga,Desarrollador React
+7,Laura,32,Pereira,Desarrolladora Full Stack
+8,Pablo,28,Medellín,Desarrollador Frontend
+9,Isabel,45,Bogotá,Desarrolladora Backend
+10,Pedro,38,Cali,Desarrollador JavaScript
+11,María,33,Barranquilla,Desarrolladora Python
+12,Juan,26,Cartagena,Desarrollador React
+13,Carmen,42,Bucaramanga,Desarrolladora Full Stack
+14,Roberto,31,Pereira,Desarrollador Frontend
+15,Raquel,29,Medellín,Desarrolladora Backend
+16,Daniel,39,Bogotá,Desarrollador JavaScript
+17,Natalia,27,Cali,Desarrolladora Python
+18,Miguel,34,Barranquilla,Desarrollador React
+19,Luisa,36,Cartagena,Desarrolladora Full Stack
+20,Alejandro,41,Bucaramanga,Desarrollador Frontend
+21,Beatriz,24,Pereira,Desarrolladora Backend
+22,Andrés,29,Medellín,Desarrollador JavaScript
+23,Carolina,35,Bogotá,Desarrolladora Python
+24,Ernesto,22,Cali,Desarrollador React
+25,Daniela,30,Barranquilla,Desarrolladora Full Stack
+26,Sergio,25,Cartagena,Desarrollador Frontend
+27,Lorena,40,Bucaramanga,Desarrolladora Backend
+28,Patricio,32,Pereira,Desarrollador JavaScript
+29,Irene,45,Medellín,Desarrolladora Python
+30,Pedro,38,Bogotá,Desarrollador React
+31,Marina,33,Cali,Desarrolladora Full Stack
+32,José,26,Barranquilla,Desarrollador Frontend
+33,Carmela,42,Cartagena,Desarrolladora Backend
+34,Ricardo,31,Bucaramanga,Desarrollador JavaScript
+35,Raúl,29,Pereira,Desarrolladora Python
+36,Daniela,39,Medellín,Desarrollador React
+37,Natalia,27,Bogotá,Desarrolladora Full Stack
+38,Miguel,34,Cali,Desarrollador Frontend
+39,Luisa,36,Barranquilla,Desarrolladora Backend
+40,Alejandro,41,Cartagena,Desarrollador JavaScript
+41,Beatriz,24,Bucaramanga,Desarrolladora Python
+42,Andrés,29,Pereira,Desarrollador React
+43,Carolina,35,Medellín,Desarrolladora Full Stack
+44,Ernesto,22,Bogotá,Desarrollador Frontend
+45,Daniela,30,Cali,Desarrolladora Backend
+46,Sergio,25,Barranquilla,Desarrollador JavaScript
+47,Lorena,40,Cartagena,Desarrolladora Python
+48,Patricio,32,Bucaramanga,Desarrollador React
+49,Irene,45,Pereira,Desarrolladora Full Stack
+50,Pedro,38,Medellín,Desarrollador Frontend
+51,Marina,33,Bogotá,Desarrolladora Backend
+52,José,26,Cali,Desarrollador JavaScript
+53,Carmela,42,Barranquilla,Desarrolladora Python
+54,Ricardo,31,Cartagena,Desarrollador React
+55,Raúl,29,Bucaramanga,Desarrolladora Full Stack
+56,Daniela,39,Pereira,Desarrollador Frontend
+57,Natalia,27,Medellín,Desarrolladora Backend
+58,Miguel,34,Bogotá,Desarrollador JavaScript
+59,Luisa,36,Cali,Desarrolladora Python
+60,Alejandro,41,Barranquilla,Desarrollador React
+61,Beatriz,24,Cartagena,Desarrolladora Full Stack
+62,Andrés,29,Bucaramanga,Desarrollador Frontend
+63,Carolina,35,Pereira,Desarrolladora Backend
+64,Ernesto,22,Medellín,Desarrollador JavaScript
+65,Daniela,30,Bogotá,Desarrolladora Python
+66,Sergio,25,Cali,Desarrollador React
+67,Lorena,40,Barranquilla,Desarrolladora Full Stack
+68,Patricio,32,Cartagena,Desarrollador Frontend
+69,Irene,45,Bucaramanga,Desarrolladora Backend
+70,Pedro,38,Pereira,Desarrollador JavaScript
+71,Marina,33,Medellín,Desarrolladora Python
+72,José,26,Bogotá,Desarrollador React
+73,Carmela,42,Cali,Desarrolladora Full Stack
+74,Ricardo,31,Barranquilla,Desarrollador Frontend
+75,Raúl,29,Cartagena,Desarrolladora Backend

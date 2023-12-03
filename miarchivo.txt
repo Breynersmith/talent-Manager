@@ -1,0 +1,100 @@
+1,Juan,28,Bogotá,Desarrollador Full Stack
+2,Carlos,35,Medellín,Desarrollador Frontend
+3,Elena,22,Cali,Desarrolladora Backend
+4,David,30,Barranquilla,Desarrollador JavaScript
+5,Sara,25,Cartagena,Desarrolladora Python
+6,Javier,40,Bucaramanga,Desarrollador React
+7,Laura,32,Pereira,Desarrolladora Full Stack
+8,Pablo,28,Manizales,Desarrollador Frontend
+9,Isabel,45,Armenia,Desarrolladora Backend
+10,Pedro,38,Neiva,Desarrollador JavaScript
+11,María,33,Villavicencio,Desarrolladora Python
+12,Juan,26,Ibagué,Desarrollador React
+13,Carmen,42,Valledupar,Desarrolladora Full Stack
+14,Roberto,31,Montería,Desarrollador Frontend
+15,Raquel,29,Santa Marta,Desarrolladora Backend
+16,Daniel,39,Cúcuta,Desarrollador JavaScript
+17,Natalia,27,Soledad,Desarrolladora Python
+18,Miguel,34,Bello,Desarrollador React
+19,Luisa,36,Pasto,Desarrolladora Full Stack
+20,Alejandro,41,Buenaventura,Desarrollador Frontend
+21,Beatriz,24,Málaga,Desarrolladora Backend
+22,Andrés,29,Bogotá,Desarrollador de Ruby
+23,Carolina,35,Medellín,Desarrolladora de PHP
+24,Ernesto,22,Cali,Desarrollador de C++
+25,Daniela,30,Barranquilla,Desarrolladora de C#
+26,Sergio,25,Cartagena,Desarrollador de Swift
+27,Lorena,40,Bucaramanga,Desarrolladora de Kotlin
+28,Patricio,32,Pereira,Desarrollador de Go
+29,Irene,45,Manizales,Desarrolladora de Rust
+30,Pedro,38,Armenia,Desarrollador de TypeScript
+31,Marina,33,Neiva,Desarrolladora de Java
+32,José,26,Villavicencio,Desarrollador de Scala
+33,Carmela,42,Ibagué,Desarrolladora de Perl
+34,Ricardo,31,Valledupar,Desarrollador de Lua
+35,Raúl,29,Santa Marta,Desarrollador de R
+36,Daniela,39,Cúcuta,Desarrolladora de MATLAB
+37,Natalia,27,Soledad,Desarrolladora de Shell
+38,Miguel,34,Bello,Desarrollador de Groovy
+39,Luisa,36,Pasto,Desarrolladora de Objective-C
+40,Alejandro,41,Buenaventura,Desarrollador de SQL
+41,Beatriz,24,Málaga,Desarrolladora de Flutter
+42,Andrés,29,Bogotá,Desarrollador de React Native
+43,Carolina,35,Medellín,Desarrolladora de Vue.js
+44,Ernesto,22,Cali,Desarrollador de Angular
+45,Daniela,30,Barranquilla,Desarrolladora de Django
+46,Sergio,25,Cartagena,Desarrollador de Laravel
+47,Lorena,40,Bucaramanga,Desarrolladora de Spring Boot
+48,Patricio,32,Pereira,Desarrollador de Express.js
+49,Irene,45,Manizales,Desarrolladora de Ruby on Rails
+50,Pedro,38,Armenia,Desarrollador de ASP.NET
+51,Marina,33,Neiva,Desarrolladora de Flask
+52,José,26,Villavicencio,Desarrollador de Bootstrap
+53,Carmela,42,Ibagué,Desarrolladora de Tailwind CSS
+54,Ricardo,31,Valledupar,Desarrollador de Material-UI
+55,Raúl,29,Santa Marta,Desarrollador de Ant Design
+56,Daniela,39,Cúcuta,Desarrolladora de Chakra UI
+57,Natalia,27,Soledad,Desarrolladora de Semantic UI
+58,Miguel,34,Bello,Desarrollador de Bulma
+59,Luisa,36,Pasto,Desarrolladora de Foundation
+60,Alejandro,41,Buenaventura,Desarrollador de UIKit
+61,Beatriz,24,Málaga,Desarrolladora de PrimeFaces
+62,Andrés,29,Bogotá,Desarrollador de Vuetify
+63,Carolina,35,Medellín,Desarrolladora de Quasar
+64,Ernesto,22,Cali,Desarrollador de Fomantic-UI
+65,Daniela,30,Barranquilla,Desarrolladora de Milligram
+66,Sergio,25,Cartagena,Desarrollador de Pure.css
+67,Lorena,40,Bucaramanga,Desarrolladora de Skeleton
+68,Patricio,32,Pereira,Desarrollador de Picnic CSS
+69,Irene,45,Manizales,Desarrolladora de mini.css
+70,Pedro,38,Armenia,Desarrollador de NES.css
+71,Marina,33,Neiva,Desarrolladora de W3.CSS
+72,José,26,Villavicencio,Desarrollador de Spectre.css
+73,Carmela,42,Ibagué,Desarrolladora de Tachyons
+74,Ricardo,31,Valledupar,Desarrollador de Water.css
+75,Raúl,29,Santa Marta,Desarrollador de Modest CSS
+76,Daniela,39,Cúcuta,Desarrolladora de Groundwork
+77,Natalia,27,Soledad,Desarrolladora de Kube
+78,Miguel,34,Bello,Desarrollador de Concise CSS
+79,Luisa,36,Pasto,Desarrolladora de BlazeUI
+80,Alejandro,41,Buenaventura,Desarrollador de Cirrus
+81,Beatriz,24,Málaga,Desarrolladora de Base
+82,Andrés,29,Bogotá,Desarrollador de Wing
+83,Carolina,35,Medellín,Desarrolladora de Cardinal
+84,Ernesto,22,Cali,Desarrollador de Mueller
+85,Daniela,30,Barranquilla,Desarrolladora de Cutestrap
+86,Sergio,25,Cartagena,Desarrollador de Mobi.css
+87,Lorena,40,Bucaramanga,Desarrolladora de Hack.css
+88,Patricio,32,Pereira,Desarrollador de Dead Simple Grid
+89,Irene,45,Manizales,Desarrolladora de Toast
+90,Pedro,38,Armenia,Desarrollador de Responsive Grid System
+91,Marina,33,Neiva,Desarrolladora de Gridlex
+92,José,26,Villavicencio,Desarrollador de Flexbox Grid
+93,Carmela,42,Ibagué,Desarrolladora de Gridism
+94,Ricardo,31,Valledupar,Desarrollador de Simple Grid
+95,Raúl,29,Santa Marta,Desarrollador de 960 Grid System
+96,Daniela,39,Cúcuta,Desarrolladora de Unsemantic CSS
+97,Natalia,27,Soledad,Desarrolladora de Susy
+98,Miguel,34,Bello,Desarrollador de Neat
+99,Luisa,36,Pasto,Desarrolladora de Bourbon
+100,Alejandro,41,Buenaventura,Desarrollador de Fluidity
