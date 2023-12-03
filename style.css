@@ -30,6 +30,12 @@ html {
         width: calc(20% + 10vw);
         max-width: 250px;
         height: 100vh;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
         background-color: #4285f4;
         padding: 20px;
         color: #fff;
@@ -55,12 +61,10 @@ aside {
 }
 
 aside #estadisticas {
-    position: absolute;
     bottom: 5rem;
     text-align: center;
-    width: 80%;
+    width: 100%;
     padding: 15px;
-    background-color: #6666665b;
 }
 
 /* Estilos para el contenido principal */
@@ -121,8 +125,11 @@ th {
 
 /* Estilos para el pie de página */
 footer {
-    width: 100%;
-    height: 5vh;
+    position: absolute;
+    bottom:60px;
+    width: 20%;
+    padding: 10px;
+    height: 10%;
     text-align: center;
     color: rgb(5, 48, 81);
     font-size: x-small;
@@ -198,14 +205,11 @@ footer {
 
 /* Estilos para el bloque de número de talentos */
 .numeroTalentos p, h4 {
-    margin: 0;
-    padding: 0;
+    width: 100%;
+    text-align: center;
+    color: #fff;
 }
 
-.numeroTalentos p {
-    font-size: 1.3rem;
-    font-weight: bold;
-}
 
 /* Estilos para la barra de desplazamiento */
 ::-webkit-scrollbar {
