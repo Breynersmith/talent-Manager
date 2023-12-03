@@ -68,7 +68,7 @@ document.addEventListener("DOMContentLoaded", function () {
             });
 
             // Agrega un event listener al botón de filtrar
-            btnFiltrar.addEventListener('click', () => {
+            btnFiltrar.addEventListener('click', (event) => {
                 event.preventDefault();
 
                 // Obtiene los valores de los filtros

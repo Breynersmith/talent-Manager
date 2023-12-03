@@ -89,6 +89,7 @@ section {
     max-width: 700px;
     max-height: 70vh;
     overflow-y: auto;
+    padding: 0 15px;
 }
 
 /* Estilos para la tabla */
@@ -247,6 +248,12 @@ footer {
     }
     aside #estadisticas {
         display: none;
+    }
+    .filter {
+        z-index: 10;
+    }
+    .filters {
+        z-index: 1000;
     }
     
     main {
