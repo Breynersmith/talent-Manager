@@ -237,6 +237,15 @@ footer {
  /* media query para el encabezado */
  @media (max-width: 360px) {
 
+    #logo {
+        background: url('img/logo-talents.png');
+        width: calc(20% + 30vw);
+        height: calc(20% + 30vw);
+        background-size: contain;
+        background-repeat: no-repeat;
+        margin: 0 auto;
+    }
+
     body {
         background-color: #718fbf;
         display: block;
@@ -247,7 +256,7 @@ footer {
         background-color: #4285f4;
         display: block;
         width: 100%;
-        height: 7%;
+        height: 20%;
         max-width: 100%;
     }
     aside {
@@ -273,11 +282,20 @@ footer {
     main {
         display: block;
         width: 100%;
-        height: 100%;
+        height: 70%;
         padding: 0 5px;
     }
     footer {
-        display: none;
+    position: absolute;
+    left: 0;
+    bottom:0px;
+    width: 100%;
+    height: 10%;
+    text-align: center;
+    color: rgb(5, 48, 81);
+    font-size: x-small;
+    font-style: italic;
+    margin-top: 0px;
     }
 
 }
