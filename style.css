@@ -235,12 +235,12 @@ footer {
 }
 
  /* media query para el encabezado */
- @media (max-width: 360px) {
+ @media (max-width: 600px) {
 
     #logo {
         background: url('img/logo-talents.png');
-        width: calc(20% + 30vw);
-        height: calc(20% + 30vw);
+        width: calc(5rem + 13vw);
+        height: calc(5rem + 13vw);
         background-size: contain;
         background-repeat: no-repeat;
         margin: 0 auto;
